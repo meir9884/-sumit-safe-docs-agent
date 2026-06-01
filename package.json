@@ -1,0 +1,14 @@
+{
+  "name": "sumit-safe-docs-agent",
+  "version": "0.1.0",
+  "description": "Safety rules and validation tools for AI agents working with invoicing, receipts, customers, and business document workflows.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "example": "node examples/run-example.js",
+    "test": "node examples/run-example.js"
+  },
+  "keywords": ["ai-agent", "invoicing", "receipts", "automation", "safety", "sumit"],
+  "author": "Meir Zalaznik",
+  "license": "MIT"
+}

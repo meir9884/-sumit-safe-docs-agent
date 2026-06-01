@@ -1,0 +1,15 @@
+{
+  "action": "create_receipt",
+  "customerQuery": "Baruch",
+  "amount": 2500,
+  "currency": "ILS",
+  "receiptName": null,
+  "paymentConfirmed": false,
+  "matchedCustomers": [
+    { "id": "cus_1", "name": "Baruch Shechter" },
+    { "id": "cus_2", "name": "Baruch Shachter" }
+  ],
+  "openDocuments": [
+    { "id": "doc_1", "type": "deal_invoice", "balance": 2500, "currency": "ILS" }
+  ]
+}
